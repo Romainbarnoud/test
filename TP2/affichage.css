@@ -1,0 +1,126 @@
+body{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#head{
+  margin: auto;
+  height: 150px;
+  width: 100%;
+  background: #9274ac;
+}
+h1{
+  color:white;
+  padding:10px;
+  margin-left: 50px;
+  margin-top:0px;
+  margin-bottom:10px;
+  font-size: 35px;
+  padding-top: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul {
+  display:flex;
+  padding-left: 60px;
+  margin:auto;
+}
+li {
+  list-style:none;
+  background-color:#9274ac;
+  padding:15px;
+  margin-right:10px;
+  border: 2px solid white;
+  border-radius: 10%;
+}
+#acceuil{
+	 border: 2px solid #9274ac;
+   padding-left:10px;
+   padding-top:20px;
+   padding-right:20px;
+   margin-top:30px;
+   margin-bottom:25px;
+   margin-left:25px;
+   max-width:75%;
+   display:inline-block;
+}
+#Newsletter{
+  border: 2px solid #9274ac;
+  padding-left:10px;
+  padding-bottom:10px;
+  padding-right:10px;
+  display:inline-block;
+  margin-left:15px;
+  vertical-align: top;
+  margin-top:30px;
+}
+#footer{
+  height: 30px;
+  width: 100%;
+  background: #9274ac;
+  color:white;
+  padding-left:30px;
+  margin-left:10px;
+  margin-top:10px;
+  padding-top:10px;
+  font-size:17px;
+}
+#page2{
+  border: 2px solid #9274ac;
+  padding-left:10px;
+  margin:20px;
+}
+#formulaire{
+  border: 2px solid #9274ac;
+  margin:20px;
+  padding-left:20px;
+  display:inline-block;
+  padding-right:10px;
+  max-width: 60%;
+  padding-bottom:10px;
+}
+#texte{
+  border: 2px solid #9274ac;
+  display:inline-block;
+  max-width:40%;
+  padding-left:10px;
+  margin-left:100px;
+  margin-top:20px;
+  vertical-align: top;
+}
+#lien{
+  text-decoration: underline;
+  color:blue;
+}
+#ligne{
+  border-top: solid #000 1px;
+  border-color: gray;
+  padding-top:10px;
+}
+#final{
+  border: 2px solid #9274ac;
+  margin:20px;
+  padding-left:20px;
+  padding-bottom:10px;
+}
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+td{
+  text-align:center;
+  vertical-align:middle;
+  padding:5px;
+}
+#textep{
+  font-size: 12px;
+  margin:0px;
+  margin-bottom:10px;
+}
+#textef{
+  margin:0px;
+}

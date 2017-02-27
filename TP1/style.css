@@ -1,0 +1,25 @@
+h1{
+	color:red;
+	text-align: center;
+}
+#texte{
+	margin:  auto;
+
+
+}
+#cursive{
+	font-family: cursive;
+}
+#carré {
+				margin: auto;
+			    height: 100px;
+			    width: 100px;
+			    background: red;
+				border-radius: 25%;
+
+}
+#image{
+	height:auto;
+	max-width: 100%;
+	width: 50%
+}
